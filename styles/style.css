@@ -1,0 +1,18 @@
+body {
+    /* background-color: #FCE0EF; */
+}
+
+
+.ul-style li {
+    margin-left: 65px;
+}
+
+.link-style a{
+    color: black;
+    line-height: 35px;
+}
+.link-style a:hover{
+    color: red;
+    transition: 0.5s;
+    font-weight:400;
+}
